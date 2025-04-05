@@ -117,7 +117,7 @@ const DatePicker = ({
 
 export default DatePicker;
 
-
+//Check README.md file how its work !
 
 // you can import and use any where
 <ReactDate formatType="yyyy/mm/dd" position="bottom" maxYear={2020} minYear={1975} />
